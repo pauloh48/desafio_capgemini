@@ -9,7 +9,6 @@
 - `JUnit 5.6` - Testes unitários;
 - `Javadoc` - Documentação.
 
-
 ## Requisitos
 - openjdk version "17.0.1" 2021-10-19 - [`download`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
 - javac 17.0.1 - [`download`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
@@ -33,3 +32,4 @@
 - [Questao01Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao01Test.java);
 - [Questao02Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao02Test.java);
 - [Questa03Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questa03Test.java);
+6. Os [resultados](https://github.com/pauloh48/desafio_capgemini/tree/main/DesafioCapgemini/target/surefire-reports) dos testes se encontram no diretório "**desafio_capgemini/tree/main/DesafioCapgemini/target/surefire-reports**"
