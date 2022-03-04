@@ -11,14 +11,25 @@
 
 
 ## Requisitos
-- openjdk version "17.0.1" 2021-10-19 - "https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html";
-- javac 17.0.1 - "https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html";
-- Apache NetBeans 12.6 - "https://netbeans.apache.org/download/index.html";
+- openjdk version "17.0.1" 2021-10-19 - [download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
+- javac 17.0.1 - [download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
+- Apache NetBeans 12.6 - [download](https://netbeans.apache.org/download/index.html);
 
 ## Instruções de como rodar a aplicação
 1. Clone o repositório;
-2. Indique o diretório no NetBeans ou outra IDE.
+2. Indique ou importe o diretório para o NetBeans ou outra IDE;
+3. Execute os arquivos como desejar.
 
 ### Questões
-3. Questao01 [GitHub Pages](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/Questao01.java).
+4. A [resolução](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/) das questões do desafio se encontram no diretório 
+"**desafio_capgemini/DesafioCapgemini/src/main/java/**" e conta com os arquivos.
+- [Questao01.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/Questao01.java);
+- [Questao02.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/Questao02.java);
+- [Questa03.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/Questa03.java).
 
+### Testes
+5. Os [testes](desafio_capgemini/DesafioCapgemini/src/test/java/) realizados em cada questão do desafio se encontram no diretório 
+"**desafio_capgemini/DesafioCapgemini/src/test/java/**" e conta com os arquivos.
+- [Questao01Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao01Test.java);
+- [Questao02Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao02Test.java);
+- [Questa03Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questa03Test.java);
