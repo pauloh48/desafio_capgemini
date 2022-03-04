@@ -11,9 +11,9 @@
 
 
 ## Requisitos
-- openjdk version "17.0.1" 2021-10-19 - `[download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)`;
-- javac 17.0.1 - `[download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)`;
-- Apache NetBeans 12.6 - `[download](https://netbeans.apache.org/download/index.html)`;
+- openjdk version "17.0.1" 2021-10-19 - [`download`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
+- javac 17.0.1 - [`download`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html);
+- Apache NetBeans 12.6 - [`download`](https://netbeans.apache.org/download/index.html);
 
 ## Instruções de como rodar a aplicação
 1. Clone o repositório;
