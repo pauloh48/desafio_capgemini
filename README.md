@@ -1,13 +1,13 @@
 # Desafio de Programação Capgemini
 
 ## Tecnologias utilizadas
-- Ubuntu 20.04.3 LTS, 64-bit - SO;
-- Apache NetBeans 12.6 - IDE;
-- openjdk version "17.0.1" 2021-10-19; 
-- javac 17.0.1;
-- Java - Linguagem;
-- JUnit 5.6 - Testes unitários;
-- Javadoc - Documentação.
+- `Ubuntu 20.04.3 LTS, 64-bit` - SO;
+- `Apache NetBeans 12.6` - IDE;
+- `openjdk version "17.0.1" 2021-10-19`; 
+- `javac 17.0.1`;
+- `Java` - Linguagem;
+- `JUnit 5.6` - Testes unitários;
+- `Javadoc` - Documentação.
 
 
 ## Requisitos
