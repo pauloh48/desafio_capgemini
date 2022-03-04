@@ -18,7 +18,7 @@
 ## Instruções de como rodar a aplicação
 1. Clone o repositório;
 2. Indique ou importe o diretório para o NetBeans ou outra IDE;
-3. Execute os arquivos como desejar.
+3. Execute os arquivos **Questões** ou **Testes** como desejar.
 
 ### Questões
 4. A [resolução](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/) das questões do desafio se encontram no diretório 
@@ -28,7 +28,7 @@
 - [Questa03.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/Questa03.java).
 
 ### Testes
-5. Os [testes](desafio_capgemini/DesafioCapgemini/src/test/java/) realizados em cada questão do desafio se encontram no diretório 
+5. Os [testes](https://github.com/pauloh48/desafio_capgemini/tree/main/DesafioCapgemini/src/test/java) realizados em cada questão do desafio se encontram no diretório 
 "**desafio_capgemini/DesafioCapgemini/src/test/java/**" e conta com os arquivos.
 - [Questao01Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao01Test.java);
 - [Questao02Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/test/java/Questao02Test.java);
