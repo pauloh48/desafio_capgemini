@@ -6,7 +6,8 @@
 - openjdk version "17.0.1" 2021-10-19; 
 - javac 17.0.1;
 - Java - Linguagem;
-- JUnit 5.6 - Testes unitários.
+- JUnit 5.6 - Testes unitários;
+- Javadoc - Documentação.
 
 
 ## Requisitos
@@ -18,5 +19,6 @@
 1. Clone o repositório;
 2. Indique o diretório no NetBeans ou outra IDE.
 
-
+### Questões
+3. 
 
