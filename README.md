@@ -2,7 +2,7 @@
 
 
 ## Observação
-- Foi realizado a resolução das questões do [**Desafio de programação CAPGEMINI 01**](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2001.docx.pdf) e das questões do [**Desafio de programação CAPGEMINI 02**](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2002.docx.pdf) ~~O desadio 1 foi feito uma vez que o desadio 2 não havia sido liberado. Este ultimo ainda conta com uma obseração "**Se você já realizou o primeiro desafio, não é necessário a resolução desse segundo desafio. Iremos levar em consideração a resolução do primeiro desafio**"~~. 
+- Foi realizado a resolução das questões do [**Desafio de programação CAPGEMINI 01**](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2001.docx.pdf) e das questões do [**Desafio de programação CAPGEMINI 02**](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2002.docx.pdf). ~~O desadio 1 foi feito uma vez que o desadio 2 não havia sido liberado. Este ultimo ainda conta com uma obseração "**Se você já realizou o primeiro desafio, não é necessário a resolução desse segundo desafio. Iremos levar em consideração a resolução do primeiro desafio**".~~
 
 ## Tecnologias utilizadas
 - `Ubuntu 20.04.3 LTS, 64-bit` - SO;
