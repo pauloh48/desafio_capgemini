@@ -23,7 +23,7 @@
 2. Indique ou importe o diretório de cada desafio para o NetBeans ou outra IDE;
 3. Execute os arquivos **Questões** ou **Testes** como desejar.
 
-## Desafio Capgemini 2
+### Desafio Capgemini 2
 #### Questões
 4. A [resolução](https://github.com/pauloh48/desafio_capgemini/tree/main/DesafioCapgemini2/src/main/java) das questões do [desafio](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2002.docx.pdf) se encontram no diretório 
 "**desafio_capgemini/DesafioCapgemini2/src/main/java/**" e conta com os arquivos:
@@ -39,7 +39,7 @@
 - [Questa03Test.java](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini2/src/test/java/Questao03Test.java).
 6. Por fim os [resultados](https://github.com/pauloh48/desafio_capgemini/tree/main/DesafioCapgemini2/target/surefire-reports) dos testes se encontram no diretório "**desafio_capgemini/tree/main/DesafioCapgemini2/target/surefire-reports**".
 
-## Desafio Capgemini 1
+### Desafio Capgemini 1
 #### Questões
 4. A [resolução](https://github.com/pauloh48/desafio_capgemini/blob/main/DesafioCapgemini/src/main/java/) das questões do [desafio](https://github.com/pauloh48/desafio_capgemini/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o%20CAPGEMINI%2001.docx.pdf) se encontram no diretório 
 "**desafio_capgemini/DesafioCapgemini/src/main/java/**" e conta com os arquivos:
